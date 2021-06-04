@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+My name is Raisa Kravchenko.  Изучаю Git и ещё несколько интересных технологий.
 
 <br />
 
@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [ ] Создать свой первый проект на Github  
+* [ ] Изучить JavaScript     
 <!-- TODO-IST:END -->
